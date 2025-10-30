@@ -19,7 +19,7 @@ int main(){
 			    printf("Moi ban nhap so a:\n");
 			    scanf("%d",&a);
 			    printf("Moi ban nhap so b:\n");
-			    scanf("%b",&b);
+			    scanf("%d",&b);
 			    printf("Moi ban nhap so c:\n");
 			    scanf("%d",&c);
 			    break;
@@ -73,4 +73,5 @@ int main(){
     	}
 	}while(choice!=6);
 }
+
 
